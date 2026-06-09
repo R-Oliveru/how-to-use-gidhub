@@ -41,3 +41,47 @@ CodeBuddy	智能代码编辑器	1. 打开并编辑从GitHub获取的项目代码
 Git 命令行	版本控制基础工具	GitHub Desktop的底层，功能更强大灵活	可选（GitHub Desktop已包含）
 
 你讲的非常好
+
+## 附录：La La Land 歌词欣赏
+
+### City of Stars
+
+City of stars
+Are you shining just for me?
+City of stars
+There's so much that I can't see
+Who knows?
+I felt it from the first embrace I shared with you
+That now our dreams
+They've come alive
+But where the hell are you?
+City of stars
+Just one thing everybody wants
+More than a
+
+City of stars
+Are you shining just for me?
+City of stars
+There's so much that I can't see
+Who knows?
+I felt it from the first embrace I shared with you
+That now our dreams
+They've come alive
+But where the hell are you?
+City of stars
+Just one thing everybody wants
+More than a thrill
+City of stars
+Up there, they don't care
+In the night they can't get hurt
+(They can't get hurt)
+City of stars
+Just one thing everybody wants
+More than real
+A rush, a rush of
+City of stars
+Are you shining just for me?
+City of stars
+You never shined for critics anyway
+City of stars, city of stars
+City of stars
