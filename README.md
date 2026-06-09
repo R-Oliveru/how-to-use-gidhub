@@ -1,5 +1,6 @@
 # how-to-use-gidhub
 记录了新手学习如何使用github的心得体会
+
 一、我的核心需求
 版本管理与协作（核心需求）
 
@@ -32,56 +33,16 @@ flowchart TD
     
     C5 & C6 & C7 --> C8[“在 **CodeBuddy** 中<br>打开项目文件夹”]
     C8 --> C9[“阅读、运行、修改、学习”]
-
-    三、工具分工与选型
-工具	核心角色	在本需求中的作用	是否必须下载
-GitHub 网站	代码仓库与搜索引擎	1. 创建/管理仓库2. 搜索和发现开源项目3. 审查Pull Request、管理Issues	否，浏览器访问
-GitHub Desktop	版本控制与同步客户端	1. 核心协作工具：克隆、提交、推送、拉取2. 可视化操作，适合新手管理分支和提交历史	是（如需协作）
-CodeBuddy	智能代码编辑器	1. 打开并编辑从GitHub获取的项目代码2. 利用AI辅助阅读、调试和编写代码	已安装
-Git 命令行	版本控制基础工具	GitHub Desktop的底层，功能更强大灵活	可选（GitHub Desktop已包含）
-
-你讲的非常好
-
-## 附录：La La Land 歌词欣赏
-
-### City of Stars
-
-City of stars
-Are you shining just for me?
-City of stars
-There's so much that I can't see
-Who knows?
-I felt it from the first embrace I shared with you
-That now our dreams
-They've come alive
-But where the hell are you?
-City of stars
-Just one thing everybody wants
-More than a
-
-City of stars
-Are you shining just for me?
-City of stars
-There's so much that I can't see
-Who knows?
-I felt it from the first embrace I shared with you
-That now our dreams
-They've come alive
-But where the hell are you?
-City of stars
-Just one thing everybody wants
-More than a thrill
-City of stars
-Up there, they don't care
-In the night they can't get hurt
-(They can't get hurt)
-City of stars
-Just one thing everybody wants
-More than real
-A rush, a rush of
-City of stars
-Are you shining just for me?
-City of stars
-You never shined for critics anyway
-City of stars, city of stars
-City of stars
+三、studylog
+260610 - GitHub 学习总结
+一、学习背景与核心目标
+依托Web3编码方向开展持续创业，挖掘并落地市场需求，为此明确两大GitHub使用需求：
+1. 参考开源项目：检索前沿创意、落地案例与优质代码，基于现有代码二次开发，提升开发效率。
+2. 规范版本管理：安全存储代码版本，标准化代码合并流程，规避代码丢失、运行故障等问题。
+二、学习内容与实操技能
+1. 基础操作：掌握GitHub项目搜索、仓库创建方法。
+2. 协作工具：熟练使用GitHub Desktop。
+3. 团队协作：学会Fork项目、提交PR、审批代码。
+4. 版本管控：可查看代码历史版本，完成版本回退（Revert）。
+三、现阶段掌握能力
+已具备开源项目检索、代码Clone/Fork、本地二次开发、多人协作开发、全流程代码版本管理的实操能力。
